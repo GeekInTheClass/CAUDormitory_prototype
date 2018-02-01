@@ -13,6 +13,9 @@
 		66DAFA462022B52200F0E5A5 /* CAUDormitory_prototype.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 66DAFA442022B52200F0E5A5 /* CAUDormitory_prototype.xcdatamodeld */; };
 		66DAFA482022B52200F0E5A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66DAFA472022B52200F0E5A5 /* Assets.xcassets */; };
 		66DAFA4B2022B52200F0E5A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66DAFA492022B52200F0E5A5 /* LaunchScreen.storyboard */; };
+		66DAFA532022B7EC00F0E5A5 /* NoticeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66DAFA522022B7EC00F0E5A5 /* NoticeTableViewController.swift */; };
+		66DAFA572022B96200F0E5A5 /* NoticeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66DAFA562022B96200F0E5A5 /* NoticeClass.swift */; };
+		66DAFA592022C0BB00F0E5A5 /* NoticeImageTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66DAFA582022C0BB00F0E5A5 /* NoticeImageTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		66DAFA472022B52200F0E5A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66DAFA4A2022B52200F0E5A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66DAFA4C2022B52200F0E5A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66DAFA522022B7EC00F0E5A5 /* NoticeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeTableViewController.swift; sourceTree = "<group>"; };
+		66DAFA562022B96200F0E5A5 /* NoticeClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeClass.swift; sourceTree = "<group>"; };
+		66DAFA582022C0BB00F0E5A5 /* NoticeImageTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeImageTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				66DAFA492022B52200F0E5A5 /* LaunchScreen.storyboard */,
 				66DAFA4C2022B52200F0E5A5 /* Info.plist */,
 				66DAFA442022B52200F0E5A5 /* CAUDormitory_prototype.xcdatamodeld */,
+				66DAFA522022B7EC00F0E5A5 /* NoticeTableViewController.swift */,
+				66DAFA582022C0BB00F0E5A5 /* NoticeImageTableViewController.swift */,
+				66DAFA562022B96200F0E5A5 /* NoticeClass.swift */,
 			);
 			path = CAUDormitory_prototype;
 			sourceTree = "<group>";
@@ -142,6 +151,9 @@
 				66DAFA462022B52200F0E5A5 /* CAUDormitory_prototype.xcdatamodeld in Sources */,
 				66DAFA402022B52200F0E5A5 /* ViewController.swift in Sources */,
 				66DAFA3E2022B52200F0E5A5 /* AppDelegate.swift in Sources */,
+				66DAFA592022C0BB00F0E5A5 /* NoticeImageTableViewController.swift in Sources */,
+				66DAFA572022B96200F0E5A5 /* NoticeClass.swift in Sources */,
+				66DAFA532022B7EC00F0E5A5 /* NoticeTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
